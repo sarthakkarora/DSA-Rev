@@ -1,3 +1,4 @@
+// Count the triplet
 import java.util.*;
 
 public class Array2 {
@@ -22,7 +23,7 @@ public class Array2 {
 
                 int sum = arr[i] + arr[j];
                 if (sum == targetSum) {
-                    // Print the triplet
+                    
                     System.out.println("Triplet found: (" + arr[i] + ", " + arr[j] + ", " + targetSum + ")");
                     count++;
                     i++;
