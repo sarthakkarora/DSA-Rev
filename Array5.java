@@ -1,7 +1,7 @@
 // Merge 2 sorted array
 import java.util.*;
 
-public class Array7{
+public class Array5{
     public static void main(String[] args) {
         
         int[] a={1,4,9,2};
