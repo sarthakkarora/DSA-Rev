@@ -1,3 +1,4 @@
+// Merge 2 sorted array
 import java.util.*;
 
 public class Array7{
